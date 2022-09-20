@@ -61,3 +61,10 @@ default:
 printf("\n Not a operator");
 }
 }
+
+              OUTPUT
+              
+              
+    Enter any operator:+
+
+    Addition          

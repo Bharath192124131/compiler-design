@@ -1,4 +1,4 @@
-[9/20, 2:22 PM] +91 6301 672 235: #include <stdio.h>
+#include <stdio.h>
 #include <string.h>
 int main()
 {

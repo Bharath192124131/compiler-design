@@ -30,3 +30,10 @@ printf("\n It is Not a Comment.");
 else
 printf("\n It is Not a Comment.");
 }
+
+   OUTPUT
+      
+      
+  Enter Comment : //this is compiler design
+
+  It is single line Comment.

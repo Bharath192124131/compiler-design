@@ -17,3 +17,12 @@ int main()
 	  	printf("the input is invalid");
 	  }
 }
+
+	OUTPUT
+	
+	enter input:abc
+	
+        the input is valid        
+    
+      
+      
